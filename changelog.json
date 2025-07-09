@@ -1,7 +1,29 @@
 { 
   {
+    "release_date": "07-06-2025",
+    "version": "1.1.2",
     "added": [
-      "test1",
+      "Top message now tweens down whenever spectate is enabled",
     ],
-  },
+    "changes": [
+      "Swat mechanic/rules adjusted ⭐",
+      "Swat timing increased by 0.2",
+      "Swatting team should now get possession",
+      "Throwers no longer have collision (no‑contact sport)",
+      "San Antonio’s color scheme reordered for scorebug and team color",
+      "Primary color is now brown, secondary orange",
+      "No change made for uniforms or endzone",
+    ],
+    "fixed": [
+      "Blacked out screen fixed (…again)",
+      "Console not being able to join league servers fixed",
+      "Players not being shown on FO menu fixed",
+      "Players not being able to catch or swat after intermission fixed",
+      "MVP screen sometimes not showing fixed",
+      "You should no longer be able to reset with frisbee and continue with live play (it now counts as an incomplete pass)",
+    ],
+    "removed": [
+      "Self‑passing completely disabled in league servers",
+    ]
+  }
 }
