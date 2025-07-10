@@ -5,7 +5,7 @@
     "added": [
       "Top message now tweens down whenever spectate is enabled"
     ],
-    "changes": [
+    "changed": [
       "Swat mechanic/rules adjusted ⭐",
       "Swat timing increased by 0.2",
       "Swatting team should now get possession",
